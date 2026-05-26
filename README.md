@@ -72,3 +72,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=fookwahkong&theme=github-dark-blue&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Commits-140-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pull_Requests-20-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-172-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Longest_Streak-5_days-orange?style=for-the-badge&logo=fire&logoColor=white" />
+</p>
