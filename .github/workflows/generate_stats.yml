@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Commit stats
-        uses: stefanzweifel/git-auto-commit-action@7.1.0
+        uses: stefanzweifel/git-auto-commit-action@v7.1.0
         with:
           commit_message: "chore: update github stats"
           file_pattern: github-user-stats.json
