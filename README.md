@@ -10,6 +10,28 @@
 
 ---
 
+### 📬 &nbsp;Reach Out to Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fwkong02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kong-ivan/)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+
+---
+
+### 🗂 &nbsp;Projects
+
+<a href="https://github.com/fookwahkong/BitBuddies">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=BitBuddies&theme=github_dark" />
+</a>
+<a href="https://github.com/fookwahkong/web-chess">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=web-chess&theme=github_dark" />
+</a>
+<a href="https://github.com/fookwahkong/bus-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=bus-app&theme=github_dark" />
+</a>
+
+---
+
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**
@@ -41,8 +63,12 @@
 
 ---
 
-### 📬 &nbsp;Reach Out to Me
+### 📊 &nbsp;GitHub Stats
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fwkong02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kong-ivan/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fookwahkong&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fookwahkong&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fookwahkong&theme=github-dark-blue&hide_border=true" />
+</p>
