@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Junior undergraduate studying **Data Science and Artificial Intelligence** at Nanyang Technological University (NTU), Singapore \
-🎯 &nbsp;Aspiring **AI Engineer** focused on applying AI to real-world products \
+🎯 &nbsp;Learning to be **AI Engineer** focused on applying AI to real-world products \
 🌱 &nbsp;Currently deepening my knowledge in Artificial Intelligence and Data Analysis \
 ✍️ &nbsp;In my free time, I gym, play volleyball, and listen to music \
 💬 &nbsp;Feel free to reach out for any opportunities or discussions on the aforementioned topics!
