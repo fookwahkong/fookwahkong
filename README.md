@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<!-- Social icons section -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/kong-ivan/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+</p>
 <!--
 **fookwahkong/fookwahkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
