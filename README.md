@@ -18,20 +18,6 @@
 
 ---
 
-### 🗂 &nbsp;Projects
-
-<a href="https://github.com/fookwahkong/BitBuddies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=BitBuddies&theme=github_dark" />
-</a>
-<a href="https://github.com/fookwahkong/web-chess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=web-chess&theme=github_dark" />
-</a>
-<a href="https://github.com/fookwahkong/bus-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=bus-app&theme=github_dark" />
-</a>
-
----
-
 ### 🛠 &nbsp;Tech Stack
 
 **Languages**
