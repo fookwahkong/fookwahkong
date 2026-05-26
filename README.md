@@ -51,6 +51,8 @@
 
 ### 📊 &nbsp;GitHub Stats
 
+![Main Stats](<https://raw.githunusercontent.com/fookwahkong/github-stats-remotion/main/out/main-stats.gif>)
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=fookwahkong&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fookwahkong&layout=compact&theme=github_dark&hide_border=true" />
