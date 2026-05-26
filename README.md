@@ -73,8 +73,8 @@
   <img src="https://streak-stats.demolab.com/?user=fookwahkong&theme=github-dark-blue&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Commits-140-blue?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pull_Requests-20-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-172-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Longest_Streak-5_days-orange?style=for-the-badge&logo=fire&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.totalCommits&label=Total%20Commits&style=for-the-badge&color=blue&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.totalPullRequests&label=Pull%20Requests&style=for-the-badge&color=purple&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.totalContributions&label=Contributions&style=for-the-badge&color=brightgreen&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.contributionStats.longestStreak&label=Longest%20Streak&style=for-the-badge&color=orange&logo=fire&logoColor=white" />
 </p>
