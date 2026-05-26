@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;Junior undergraduate studying **Data Science and Artificial Intelligence** at Nanyang Technological University (NTU), Singapore \
-🎯 &nbsp;Aspiring **AI Engineer** focused on applying AI to real-world products \
+🎯 &nbsp; Building AI Systems with Python | Interested in LLM aaplications and data pipelines \
 🌱 &nbsp;Currently deepening my knowledge in Artificial Intelligence and Data Analysis \
 ✍️ &nbsp;In my free time, I gym, play volleyball, and listen to music \
 💬 &nbsp;Feel free to reach out for any opportunities or discussions on the aforementioned topics!
@@ -15,20 +15,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fwkong02@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kong-ivan/)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](YOUR_RESUME_LINK_HERE)
-
----
-
-### 🗂 &nbsp;Projects
-
-<a href="https://github.com/fookwahkong/BitBuddies">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=BitBuddies&theme=github_dark" />
-</a>
-<a href="https://github.com/fookwahkong/web-chess">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=web-chess&theme=github_dark" />
-</a>
-<a href="https://github.com/fookwahkong/bus-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=fookwahkong&repo=bus-app&theme=github_dark" />
-</a>
 
 ---
 
