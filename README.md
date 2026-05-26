@@ -51,15 +51,6 @@
 
 ### 📊 &nbsp;GitHub Stats
 
-![Main Stats](<https://raw.githunusercontent.com/fookwahkong/github-stats-remotion/main/out/main-stats.gif>)
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=fookwahkong&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fookwahkong&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=fookwahkong&theme=github-dark-blue&hide_border=true" />
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.totalCommits&label=Total%20Commits&style=for-the-badge&color=blue&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/fookwahkong/fookwahkong/main/github-user-stats.json&query=$.totalPullRequests&label=Pull%20Requests&style=for-the-badge&color=purple&logo=github&logoColor=white" />
