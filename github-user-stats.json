@@ -10,44 +10,56 @@
   "websiteUrl": null,
   "createdAt": "2021-05-05T04:01:46Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 32109,
-  "linesAdded": 30045,
-  "linesDeleted": 2064,
-  "commitCount": 58,
-  "totalCommits": 140,
-  "totalPullRequests": 18,
+  "linesOfCodeChanged": 62875,
+  "linesAdded": 52395,
+  "linesDeleted": 10480,
+  "commitCount": 193,
+  "totalCommits": 278,
+  "totalPullRequests": 19,
   "totalPullRequestReviews": 1,
-  "codeByteTotal": 665332,
+  "codeByteTotal": 1038799,
   "topLanguages": [
     {
       "languageName": "JavaScript",
       "color": "#f1e05a",
-      "value": 284511,
-      "percentage": 42.76
+      "value": 486961,
+      "percentage": 46.88
     },
     {
       "languageName": "Java",
       "color": "#b07219",
       "value": 201993,
-      "percentage": 30.36
+      "percentage": 19.44
+    },
+    {
+      "languageName": "Python",
+      "color": "#3572A5",
+      "value": 141849,
+      "percentage": 13.66
     },
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
       "value": 120707,
-      "percentage": 18.14
+      "percentage": 11.62
     },
     {
       "languageName": "CSS",
       "color": "#663399",
-      "value": 57182,
-      "percentage": 8.59
+      "value": 82655,
+      "percentage": 7.96
+    },
+    {
+      "languageName": "PowerShell",
+      "color": "#012456",
+      "value": 3118,
+      "percentage": 0.3
     },
     {
       "languageName": "HTML",
       "color": "#e34c26",
-      "value": 939,
-      "percentage": 0.14
+      "value": 1516,
+      "percentage": 0.15
     }
   ],
   "forkCount": 0,
@@ -58,14 +70,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 165,
+  "totalContributions": 305,
   "contributionStats": {
     "longestStreak": 23,
-    "currentStreak": 13,
-    "mostActiveDay": "Tuesday",
-    "averagePerDay": 0.09,
-    "averagePerWeek": 0.61,
-    "averagePerMonth": 2.61,
+    "currentStreak": 14,
+    "mostActiveDay": "Friday",
+    "averagePerDay": 0.16,
+    "averagePerWeek": 1.13,
+    "averagePerMonth": 4.83,
     "monthlyBreakdown": [
       {
         "month": "2021-05",
@@ -313,11 +325,11 @@
       },
       {
         "month": "2026-06",
-        "contributions": 27
+        "contributions": 135
       },
       {
         "month": "2026-07",
-        "contributions": 9
+        "contributions": 41
       }
     ],
     "yearlyBreakdown": [
@@ -343,86 +355,98 @@
       },
       {
         "year": "2026",
-        "contributions": 89
+        "contributions": 229
       }
     ],
     "peakDay": {
-      "date": "2026-05-26",
-      "contributions": 30
+      "date": "2026-06-26",
+      "contributions": 35
     }
   },
   "repoStats": {
-    "totalRepos": 5,
-    "publicRepos": 5,
+    "totalRepos": 6,
+    "publicRepos": 6,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 1,
-    "originalRepos": 4,
-    "activeRepos": 4,
+    "originalRepos": 5,
+    "activeRepos": 5,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 4,
-    "averageStarsPerRepo": 0.4
+    "reposCreatedThisYear": 5,
+    "averageStarsPerRepo": 0.33
   },
   "computedStats": {
-    "totalRepos": 5,
-    "publicRepos": 5,
+    "totalRepos": 6,
+    "publicRepos": 6,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 1,
-    "originalRepos": 4,
-    "activeRepos": 4,
+    "originalRepos": 5,
+    "activeRepos": 5,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 4,
-    "averageStarsPerRepo": 0.4,
-    "languageCount": 5,
+    "reposCreatedThisYear": 5,
+    "averageStarsPerRepo": 0.33,
+    "languageCount": 7,
     "primaryLanguage": "JavaScript",
     "primaryLanguageThisYear": "JavaScript",
     "topLanguagesThisYear": [
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 284511,
-        "percentage": 61.4
+        "value": 486961,
+        "percentage": 58.19
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 141849,
+        "percentage": 16.95
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 120707,
-        "percentage": 26.05
+        "percentage": 14.42
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 57182,
-        "percentage": 12.34
+        "value": 82655,
+        "percentage": 9.88
+      },
+      {
+        "languageName": "PowerShell",
+        "color": "#012456",
+        "value": 3118,
+        "percentage": 0.37
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 939,
-        "percentage": 0.2
+        "value": 1516,
+        "percentage": 0.18
       }
     ],
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 89,
+    "contributionsThisYear": 229,
     "contributionsLastYear": 75,
-    "yearOverYearGrowth": 18.67,
+    "yearOverYearGrowth": 205.33,
     "mostProductiveMonth": {
-      "month": "2025-04",
-      "contributions": 64
+      "month": "2026-06",
+      "contributions": 135
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 140,
+    "totalCommitContributions": 278,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 5,
-    "totalPullRequestContributions": 18,
+    "totalRepositoryContributions": 6,
+    "totalPullRequestContributions": 19,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 165,
+      "totalContributions": 305,
       "weeks": [
         {
           "contributionDays": [
@@ -8975,7 +8999,7 @@
               "date": "2026-06-10"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-06-11"
             },
             {
@@ -9011,7 +9035,7 @@
               "date": "2026-06-18"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 9,
               "date": "2026-06-19"
             },
             {
@@ -9031,19 +9055,19 @@
               "date": "2026-06-22"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 18,
               "date": "2026-06-23"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-06-24"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 12,
               "date": "2026-06-25"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 35,
               "date": "2026-06-26"
             },
             {
@@ -9055,27 +9079,27 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-06-28"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 17,
               "date": "2026-06-29"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 16,
               "date": "2026-06-30"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 9,
               "date": "2026-07-01"
             },
             {
-              "contributionCount": 5,
+              "contributionCount": 25,
               "date": "2026-07-02"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-07-03"
             },
             {
@@ -9091,8 +9115,12 @@
               "date": "2026-07-05"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 2,
               "date": "2026-07-06"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -9129,6 +9157,20 @@
       "createdAt": "2026-03-01T13:07:17Z"
     },
     {
+      "name": "finance-tracker",
+      "nameWithOwner": "fookwahkong/finance-tracker",
+      "description": "Financial Tools | Learning Project",
+      "stars": 0,
+      "forks": 0,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "updatedAt": "2026-07-06T08:35:39Z",
+      "createdAt": "2026-06-11T05:52:22Z"
+    },
+    {
       "name": "fookwahkong",
       "nameWithOwner": "fookwahkong/fookwahkong",
       "description": null,
@@ -9139,7 +9181,7 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-07-05T04:05:01Z",
+      "updatedAt": "2026-07-06T04:11:37Z",
       "createdAt": "2026-05-26T01:22:46Z"
     },
     {
@@ -9173,9 +9215,9 @@
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1783311091444,
+  "fetchedAt": 1783396905760,
   "schemaVersion": 2,
-  "generatedAt": "2026-07-06T04:11:31.444Z",
+  "generatedAt": "2026-07-07T04:01:45.760Z",
   "profile": {
     "name": "Ivan Kong",
     "login": "fookwahkong",
@@ -9191,15 +9233,15 @@
     "following": 0
   },
   "profileContributions": {
-    "totalContributions": 165,
-    "totalCommitContributions": 140,
+    "totalContributions": 305,
+    "totalCommitContributions": 278,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 5,
-    "totalPullRequestContributions": 18,
+    "totalRepositoryContributions": 6,
+    "totalPullRequestContributions": 19,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 165,
+      "totalContributions": 305,
       "weeks": [
         {
           "contributionDays": [
@@ -17752,7 +17794,7 @@
               "date": "2026-06-10"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-06-11"
             },
             {
@@ -17788,7 +17830,7 @@
               "date": "2026-06-18"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 9,
               "date": "2026-06-19"
             },
             {
@@ -17808,19 +17850,19 @@
               "date": "2026-06-22"
             },
             {
-              "contributionCount": 3,
+              "contributionCount": 18,
               "date": "2026-06-23"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 5,
               "date": "2026-06-24"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 12,
               "date": "2026-06-25"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 35,
               "date": "2026-06-26"
             },
             {
@@ -17832,27 +17874,27 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-06-28"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 17,
               "date": "2026-06-29"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 16,
               "date": "2026-06-30"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 9,
               "date": "2026-07-01"
             },
             {
-              "contributionCount": 5,
+              "contributionCount": 25,
               "date": "2026-07-02"
             },
             {
-              "contributionCount": 1,
+              "contributionCount": 3,
               "date": "2026-07-03"
             },
             {
@@ -17868,8 +17910,12 @@
               "date": "2026-07-05"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 2,
               "date": "2026-07-06"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-07"
             }
           ]
         }
@@ -17877,11 +17923,11 @@
     },
     "stats": {
       "longestStreak": 23,
-      "currentStreak": 13,
-      "mostActiveDay": "Tuesday",
-      "averagePerDay": 0.09,
-      "averagePerWeek": 0.61,
-      "averagePerMonth": 2.61,
+      "currentStreak": 14,
+      "mostActiveDay": "Friday",
+      "averagePerDay": 0.16,
+      "averagePerWeek": 1.13,
+      "averagePerMonth": 4.83,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -18129,11 +18175,11 @@
         },
         {
           "month": "2026-06",
-          "contributions": 27
+          "contributions": 135
         },
         {
           "month": "2026-07",
-          "contributions": 9
+          "contributions": 41
         }
       ],
       "yearlyBreakdown": [
@@ -18159,12 +18205,12 @@
         },
         {
           "year": "2026",
-          "contributions": 89
+          "contributions": 229
         }
       ],
       "peakDay": {
-        "date": "2026-05-26",
-        "contributions": 30
+        "date": "2026-06-26",
+        "contributions": 35
       }
     },
     "repositoryContributions": [
@@ -18193,11 +18239,23 @@
         }
       },
       {
+        "repositoryId": "R_kgDOS3MjeQ",
+        "nameWithOwner": "fookwahkong/finance-tracker",
+        "owner": "fookwahkong",
+        "counts": {
+          "commits": 137,
+          "issues": 0,
+          "pullRequests": 1,
+          "pullRequestReviews": 0,
+          "repositoryCreations": 1
+        }
+      },
+      {
         "repositoryId": "R_kgDOSn0dzQ",
         "nameWithOwner": "fookwahkong/fookwahkong",
         "owner": "fookwahkong",
         "counts": {
-          "commits": 62,
+          "commits": 63,
           "issues": 0,
           "pullRequests": 3,
           "pullRequestReviews": 0,
@@ -18244,7 +18302,7 @@
     }
   },
   "activity": {
-    "totalPullRequests": 18,
+    "totalPullRequests": 19,
     "openIssues": 0,
     "closedIssues": 0,
     "repositoriesContributedTo": 0,
@@ -18295,7 +18353,7 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1783311069850
+      "metadataFetchedAt": 1783396882970
     },
     {
       "id": "R_kgDORbvSMw",
@@ -18351,7 +18409,75 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1783311070733
+      "metadataFetchedAt": 1783396883941
+    },
+    {
+      "id": "R_kgDOS3MjeQ",
+      "name": "finance-tracker",
+      "nameWithOwner": "fookwahkong/finance-tracker",
+      "owner": "fookwahkong",
+      "ownerType": "User",
+      "description": "Financial Tools | Learning Project",
+      "url": "https://github.com/fookwahkong/finance-tracker",
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "visibility": "PUBLIC",
+      "viewerPermission": "ADMIN",
+      "createdAt": "2026-06-11T05:52:22Z",
+      "updatedAt": "2026-07-06T08:35:39Z",
+      "pushedAt": "2026-07-06T08:35:35Z",
+      "defaultBranchOid": "68fb13517972e745eedb159ed2c51a4b0c409f94",
+      "stars": 0,
+      "forks": 0,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "languages": [
+        {
+          "languageName": "JavaScript",
+          "color": "#f1e05a",
+          "value": 202450,
+          "percentage": 54.21
+        },
+        {
+          "languageName": "Python",
+          "color": "#3572A5",
+          "value": 141849,
+          "percentage": 37.98
+        },
+        {
+          "languageName": "CSS",
+          "color": "#663399",
+          "value": 25473,
+          "percentage": 6.82
+        },
+        {
+          "languageName": "PowerShell",
+          "color": "#012456",
+          "value": 3118,
+          "percentage": 0.83
+        },
+        {
+          "languageName": "HTML",
+          "color": "#e34c26",
+          "value": 577,
+          "percentage": 0.15
+        }
+      ],
+      "codeByteTotal": 373467,
+      "sources": [
+        "profile-contribution",
+        "cache",
+        "owned"
+      ],
+      "contributionCounts": {
+        "commits": 137,
+        "issues": 0,
+        "pullRequests": 1,
+        "pullRequestReviews": 0,
+        "repositoryCreations": 1
+      },
+      "metadataFetchedAt": 1783396883941
     },
     {
       "id": "R_kgDOSn0dzQ",
@@ -18367,9 +18493,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-05-26T01:22:46Z",
-      "updatedAt": "2026-07-05T04:05:01Z",
-      "pushedAt": "2026-07-05T04:04:58Z",
-      "defaultBranchOid": "b054f2b6c008ba72150d730d5fd6a2a3b9368f69",
+      "updatedAt": "2026-07-06T04:11:37Z",
+      "pushedAt": "2026-07-06T04:11:34Z",
+      "defaultBranchOid": "527e5945df93804f2d42c5b7aad2bcb99c2594e8",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -18382,13 +18508,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 62,
+        "commits": 63,
         "issues": 0,
         "pullRequests": 3,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1783311070733
+      "metadataFetchedAt": 1783396883941
     },
     {
       "id": "R_kgDOTLgZHQ",
@@ -18425,7 +18551,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1783311070733
+      "metadataFetchedAt": 1783396883941
     },
     {
       "id": "R_kgDOTChFQg",
@@ -18469,123 +18595,147 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1783311070733
+      "metadataFetchedAt": 1783396883941
     }
   ],
   "repoMetrics": {
     "starCount": 2,
     "forkCount": 0,
-    "codeByteTotal": 665332,
+    "codeByteTotal": 1038799,
     "topLanguages": [
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 284511,
-        "percentage": 42.76
+        "value": 486961,
+        "percentage": 46.88
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 201993,
-        "percentage": 30.36
+        "percentage": 19.44
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 141849,
+        "percentage": 13.66
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 120707,
-        "percentage": 18.14
+        "percentage": 11.62
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 57182,
-        "percentage": 8.59
+        "value": 82655,
+        "percentage": 7.96
+      },
+      {
+        "languageName": "PowerShell",
+        "color": "#012456",
+        "value": 3118,
+        "percentage": 0.3
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 939,
-        "percentage": 0.14
+        "value": 1516,
+        "percentage": 0.15
       }
     ],
     "topTopics": [],
     "contributorStats": {
-      "totalCommits": 58,
-      "linesAdded": 30045,
-      "linesDeleted": 2064,
-      "linesOfCodeChanged": 32109,
-      "reposCompleted": 1,
+      "totalCommits": 193,
+      "linesAdded": 52395,
+      "linesDeleted": 10480,
+      "linesOfCodeChanged": 62875,
+      "reposCompleted": 3,
       "reposPending": 0,
-      "reposFailed": 4
+      "reposFailed": 3
     },
     "traffic": {
       "repoViews": 0,
       "repoViewUniques": 0,
       "reposCompleted": 0,
       "reposPending": 0,
-      "reposFailed": 5
+      "reposFailed": 6
     },
     "repoStats": {
-      "totalRepos": 5,
-      "publicRepos": 5,
+      "totalRepos": 6,
+      "publicRepos": 6,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 4,
-      "activeRepos": 4,
+      "originalRepos": 5,
+      "activeRepos": 5,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 4,
-      "averageStarsPerRepo": 0.4
+      "reposCreatedThisYear": 5,
+      "averageStarsPerRepo": 0.33
     },
     "computedStats": {
-      "totalRepos": 5,
-      "publicRepos": 5,
+      "totalRepos": 6,
+      "publicRepos": 6,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 4,
-      "activeRepos": 4,
+      "originalRepos": 5,
+      "activeRepos": 5,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 4,
-      "averageStarsPerRepo": 0.4,
-      "languageCount": 5,
+      "reposCreatedThisYear": 5,
+      "averageStarsPerRepo": 0.33,
+      "languageCount": 7,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
       "topLanguagesThisYear": [
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 284511,
-          "percentage": 61.4
+          "value": 486961,
+          "percentage": 58.19
+        },
+        {
+          "languageName": "Python",
+          "color": "#3572A5",
+          "value": 141849,
+          "percentage": 16.95
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 120707,
-          "percentage": 26.05
+          "percentage": 14.42
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 57182,
-          "percentage": 12.34
+          "value": 82655,
+          "percentage": 9.88
+        },
+        {
+          "languageName": "PowerShell",
+          "color": "#012456",
+          "value": 3118,
+          "percentage": 0.37
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
-          "value": 939,
-          "percentage": 0.2
+          "value": 1516,
+          "percentage": 0.18
         }
       ],
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 89,
+      "contributionsThisYear": 229,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 18.67,
+      "yearOverYearGrowth": 205.33,
       "mostProductiveMonth": {
-        "month": "2025-04",
-        "contributions": 64
+        "month": "2026-06",
+        "contributions": 135
       }
     }
   },
@@ -18593,68 +18743,68 @@
     "readmeSummary": {
       "name": "Ivan Kong",
       "username": "fookwahkong",
-      "totalContributions": 165,
-      "currentStreak": 13,
+      "totalContributions": 305,
+      "currentStreak": 14,
       "longestStreak": 23,
       "topLanguages": [
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 284511,
-          "percentage": 42.76
+          "value": 486961,
+          "percentage": 46.88
         },
         {
           "languageName": "Java",
           "color": "#b07219",
           "value": 201993,
-          "percentage": 30.36
+          "percentage": 19.44
+        },
+        {
+          "languageName": "Python",
+          "color": "#3572A5",
+          "value": 141849,
+          "percentage": 13.66
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 120707,
-          "percentage": 18.14
+          "percentage": 11.62
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 57182,
-          "percentage": 8.59
-        },
-        {
-          "languageName": "HTML",
-          "color": "#e34c26",
-          "value": 939,
-          "percentage": 0.14
+          "value": 82655,
+          "percentage": 7.96
         }
       ],
       "starsReceived": 2,
       "forksReceived": 0,
-      "activeRepos": 4,
-      "refreshedAt": "2026-07-06T04:11:31.444Z",
+      "activeRepos": 5,
+      "refreshedAt": "2026-07-07T04:01:45.760Z",
       "complete": false
     },
     "cards": [
       {
         "id": "total-contributions",
         "label": "Total contributions",
-        "value": "165"
+        "value": "305"
       },
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "13 days"
+        "value": "14 days"
       },
       {
         "id": "languages",
         "label": "Languages",
-        "value": 5,
+        "value": 7,
         "detail": "JavaScript leads"
       },
       {
         "id": "code-volume",
         "label": "Code volume",
-        "value": "649.7 KB"
+        "value": "1014.5 KB"
       },
       {
         "id": "stars",
@@ -18685,27 +18835,27 @@
       },
       {
         "period": "2026",
-        "contributions": 89
+        "contributions": 229
       }
     ],
     "highlights": [
       {
         "id": "peak-day",
         "label": "Peak day",
-        "value": 30,
-        "detail": "2026-05-26"
+        "value": 35,
+        "detail": "2026-06-26"
       },
       {
         "id": "top-month",
         "label": "Most productive month",
-        "value": 64,
-        "detail": "2025-04"
+        "value": 135,
+        "detail": "2026-06"
       },
       {
         "id": "top-language",
         "label": "Top language",
         "value": "JavaScript",
-        "detail": "42.76%"
+        "detail": "46.88%"
       }
     ],
     "remotion": {
@@ -18719,20 +18869,20 @@
         {
           "id": "contributions",
           "title": "Contribution history",
-          "metric": "165",
+          "metric": "305",
           "supportingText": "23 day longest streak"
         },
         {
           "id": "repositories",
           "title": "Repository footprint",
-          "metric": 5,
-          "supportingText": "4 active this year"
+          "metric": 6,
+          "supportingText": "5 active this year"
         },
         {
           "id": "languages",
           "title": "Language mix",
           "metric": "JavaScript",
-          "supportingText": "5 languages detected"
+          "supportingText": "7 languages detected"
         }
       ]
     }
@@ -18745,9 +18895,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1783311060452,
-    "finishedAt": 1783311091444,
-    "durationMs": 30992,
+    "startedAt": 1783396873714,
+    "finishedAt": 1783396905760,
+    "durationMs": 32046,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -18755,12 +18905,12 @@
       "volatilePath": ".github-profile-stats/volatile-cache.json",
       "contributionYearsFromCache": 0,
       "contributionYearsFetched": 6,
-      "repositoriesFromCache": 5,
+      "repositoriesFromCache": 6,
       "repositoriesFetched": 0
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 1,
+      "completedThisRun": 3,
       "pending": 0,
       "failedThisRun": 9,
       "skippedThisRun": 0
@@ -18770,30 +18920,33 @@
         "limit": 5000,
         "remaining": 4979,
         "used": 21,
-        "resetAt": "2026-07-06T05:11:00Z"
+        "resetAt": "2026-07-07T05:01:13Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4998,
-        "used": 2,
-        "resetAt": "2026-07-06T05:11:15.000Z"
+        "remaining": 4994,
+        "used": 6,
+        "resetAt": "2026-07-07T05:01:28.000Z"
       }
     },
     "warnings": [
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 1000ms",
       "traffic fookwahkong/BitBuddies returned 403; retrying in 1000ms",
-      "traffic fookwahkong/fookwahkong returned 403; retrying in 1000ms",
+      "traffic fookwahkong/finance-tracker returned 403; retrying in 1000ms",
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 2000ms",
+      "traffic fookwahkong/fookwahkong returned 403; retrying in 1000ms",
       "traffic fookwahkong/BitBuddies returned 403; retrying in 2000ms",
-      "traffic fookwahkong/stats-action returned 403; retrying in 1000ms",
+      "traffic fookwahkong/finance-tracker returned 403; retrying in 2000ms",
       "traffic fookwahkong/fookwahkong returned 403; retrying in 2000ms",
-      "traffic fookwahkong/stats-action returned 403; retrying in 2000ms",
-      "traffic fookwahkong/BitBuddies returned 403; retrying in 4000ms",
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 4000ms",
+      "traffic fookwahkong/BitBuddies returned 403; retrying in 4000ms",
+      "traffic fookwahkong/finance-tracker returned 403; retrying in 4000ms",
       "traffic fookwahkong/fookwahkong returned 403; retrying in 4000ms",
-      "traffic fookwahkong/stats-action returned 403; retrying in 4000ms",
+      "traffic fookwahkong/stats-action returned 403; retrying in 1000ms",
       "traffic fookwahkong/second-brain returned 403; retrying in 1000ms",
+      "traffic fookwahkong/stats-action returned 403; retrying in 2000ms",
       "traffic fookwahkong/second-brain returned 403; retrying in 2000ms",
+      "traffic fookwahkong/stats-action returned 403; retrying in 4000ms",
       "traffic fookwahkong/second-brain returned 403; retrying in 4000ms"
     ],
     "errors": []
@@ -18810,44 +18963,56 @@
     "websiteUrl": null,
     "createdAt": "2021-05-05T04:01:46Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 32109,
-    "linesAdded": 30045,
-    "linesDeleted": 2064,
-    "commitCount": 58,
-    "totalCommits": 140,
-    "totalPullRequests": 18,
+    "linesOfCodeChanged": 62875,
+    "linesAdded": 52395,
+    "linesDeleted": 10480,
+    "commitCount": 193,
+    "totalCommits": 278,
+    "totalPullRequests": 19,
     "totalPullRequestReviews": 1,
-    "codeByteTotal": 665332,
+    "codeByteTotal": 1038799,
     "topLanguages": [
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
-        "value": 284511,
-        "percentage": 42.76
+        "value": 486961,
+        "percentage": 46.88
       },
       {
         "languageName": "Java",
         "color": "#b07219",
         "value": 201993,
-        "percentage": 30.36
+        "percentage": 19.44
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 141849,
+        "percentage": 13.66
       },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 120707,
-        "percentage": 18.14
+        "percentage": 11.62
       },
       {
         "languageName": "CSS",
         "color": "#663399",
-        "value": 57182,
-        "percentage": 8.59
+        "value": 82655,
+        "percentage": 7.96
+      },
+      {
+        "languageName": "PowerShell",
+        "color": "#012456",
+        "value": 3118,
+        "percentage": 0.3
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
-        "value": 939,
-        "percentage": 0.14
+        "value": 1516,
+        "percentage": 0.15
       }
     ],
     "forkCount": 0,
@@ -18858,14 +19023,14 @@
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 165,
+    "totalContributions": 305,
     "contributionStats": {
       "longestStreak": 23,
-      "currentStreak": 13,
-      "mostActiveDay": "Tuesday",
-      "averagePerDay": 0.09,
-      "averagePerWeek": 0.61,
-      "averagePerMonth": 2.61,
+      "currentStreak": 14,
+      "mostActiveDay": "Friday",
+      "averagePerDay": 0.16,
+      "averagePerWeek": 1.13,
+      "averagePerMonth": 4.83,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -19113,11 +19278,11 @@
         },
         {
           "month": "2026-06",
-          "contributions": 27
+          "contributions": 135
         },
         {
           "month": "2026-07",
-          "contributions": 9
+          "contributions": 41
         }
       ],
       "yearlyBreakdown": [
@@ -19143,86 +19308,98 @@
         },
         {
           "year": "2026",
-          "contributions": 89
+          "contributions": 229
         }
       ],
       "peakDay": {
-        "date": "2026-05-26",
-        "contributions": 30
+        "date": "2026-06-26",
+        "contributions": 35
       }
     },
     "repoStats": {
-      "totalRepos": 5,
-      "publicRepos": 5,
+      "totalRepos": 6,
+      "publicRepos": 6,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 4,
-      "activeRepos": 4,
+      "originalRepos": 5,
+      "activeRepos": 5,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 4,
-      "averageStarsPerRepo": 0.4
+      "reposCreatedThisYear": 5,
+      "averageStarsPerRepo": 0.33
     },
     "computedStats": {
-      "totalRepos": 5,
-      "publicRepos": 5,
+      "totalRepos": 6,
+      "publicRepos": 6,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 4,
-      "activeRepos": 4,
+      "originalRepos": 5,
+      "activeRepos": 5,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 4,
-      "averageStarsPerRepo": 0.4,
-      "languageCount": 5,
+      "reposCreatedThisYear": 5,
+      "averageStarsPerRepo": 0.33,
+      "languageCount": 7,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
       "topLanguagesThisYear": [
         {
           "languageName": "JavaScript",
           "color": "#f1e05a",
-          "value": 284511,
-          "percentage": 61.4
+          "value": 486961,
+          "percentage": 58.19
+        },
+        {
+          "languageName": "Python",
+          "color": "#3572A5",
+          "value": 141849,
+          "percentage": 16.95
         },
         {
           "languageName": "TypeScript",
           "color": "#3178c6",
           "value": 120707,
-          "percentage": 26.05
+          "percentage": 14.42
         },
         {
           "languageName": "CSS",
           "color": "#663399",
-          "value": 57182,
-          "percentage": 12.34
+          "value": 82655,
+          "percentage": 9.88
+        },
+        {
+          "languageName": "PowerShell",
+          "color": "#012456",
+          "value": 3118,
+          "percentage": 0.37
         },
         {
           "languageName": "HTML",
           "color": "#e34c26",
-          "value": 939,
-          "percentage": 0.2
+          "value": 1516,
+          "percentage": 0.18
         }
       ],
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 89,
+      "contributionsThisYear": 229,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 18.67,
+      "yearOverYearGrowth": 205.33,
       "mostProductiveMonth": {
-        "month": "2025-04",
-        "contributions": 64
+        "month": "2026-06",
+        "contributions": 135
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 140,
+      "totalCommitContributions": 278,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 0,
-      "totalRepositoryContributions": 5,
-      "totalPullRequestContributions": 18,
+      "totalRepositoryContributions": 6,
+      "totalPullRequestContributions": 19,
       "totalPullRequestReviewContributions": 1,
       "contributionCalendar": {
-        "totalContributions": 165,
+        "totalContributions": 305,
         "weeks": [
           {
             "contributionDays": [
@@ -27775,7 +27952,7 @@
                 "date": "2026-06-10"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2026-06-11"
               },
               {
@@ -27811,7 +27988,7 @@
                 "date": "2026-06-18"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 9,
                 "date": "2026-06-19"
               },
               {
@@ -27831,19 +28008,19 @@
                 "date": "2026-06-22"
               },
               {
-                "contributionCount": 3,
+                "contributionCount": 18,
                 "date": "2026-06-23"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 5,
                 "date": "2026-06-24"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 12,
                 "date": "2026-06-25"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 35,
                 "date": "2026-06-26"
               },
               {
@@ -27855,27 +28032,27 @@
           {
             "contributionDays": [
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2026-06-28"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 17,
                 "date": "2026-06-29"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 16,
                 "date": "2026-06-30"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 9,
                 "date": "2026-07-01"
               },
               {
-                "contributionCount": 5,
+                "contributionCount": 25,
                 "date": "2026-07-02"
               },
               {
-                "contributionCount": 1,
+                "contributionCount": 3,
                 "date": "2026-07-03"
               },
               {
@@ -27891,8 +28068,12 @@
                 "date": "2026-07-05"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 2,
                 "date": "2026-07-06"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-07-07"
               }
             ]
           }
@@ -27929,6 +28110,20 @@
         "createdAt": "2026-03-01T13:07:17Z"
       },
       {
+        "name": "finance-tracker",
+        "nameWithOwner": "fookwahkong/finance-tracker",
+        "description": "Financial Tools | Learning Project",
+        "stars": 0,
+        "forks": 0,
+        "isArchived": false,
+        "isFork": false,
+        "isPrivate": false,
+        "primaryLanguage": "JavaScript",
+        "topics": [],
+        "updatedAt": "2026-07-06T08:35:39Z",
+        "createdAt": "2026-06-11T05:52:22Z"
+      },
+      {
         "name": "fookwahkong",
         "nameWithOwner": "fookwahkong/fookwahkong",
         "description": null,
@@ -27939,7 +28134,7 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-07-05T04:05:01Z",
+        "updatedAt": "2026-07-06T04:11:37Z",
         "createdAt": "2026-05-26T01:22:46Z"
       },
       {
@@ -27973,6 +28168,6 @@
     ],
     "closedIssues": 0,
     "openIssues": 0,
-    "fetchedAt": 1783311091444
+    "fetchedAt": 1783396905760
   }
 }
