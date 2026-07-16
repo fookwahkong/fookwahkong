@@ -10,11 +10,11 @@
   "websiteUrl": null,
   "createdAt": "2021-05-05T04:01:46Z",
   "repoViews": 0,
-  "linesOfCodeChanged": 34610,
-  "linesAdded": 31447,
-  "linesDeleted": 3163,
-  "commitCount": 67,
-  "totalCommits": 322,
+  "linesOfCodeChanged": 34782,
+  "linesAdded": 31539,
+  "linesDeleted": 3243,
+  "commitCount": 68,
+  "totalCommits": 320,
   "totalPullRequests": 20,
   "totalPullRequestReviews": 1,
   "codeByteTotal": 1075867,
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 350,
+  "totalContributions": 347,
   "contributionStats": {
     "longestStreak": 23,
-    "currentStreak": 22,
-    "mostActiveDay": "Thursday",
+    "currentStreak": 23,
+    "mostActiveDay": "Friday",
     "averagePerDay": 0.18,
-    "averagePerWeek": 1.29,
-    "averagePerMonth": 5.52,
+    "averagePerWeek": 1.28,
+    "averagePerMonth": 5.47,
     "monthlyBreakdown": [
       {
         "month": "2021-05",
@@ -329,7 +329,7 @@
       },
       {
         "month": "2026-07",
-        "contributions": 86
+        "contributions": 83
       }
     ],
     "yearlyBreakdown": [
@@ -355,7 +355,7 @@
       },
       {
         "year": "2026",
-        "contributions": 274
+        "contributions": 271
       }
     ],
     "peakDay": {
@@ -364,28 +364,28 @@
     }
   },
   "repoStats": {
-    "totalRepos": 6,
-    "publicRepos": 6,
+    "totalRepos": 5,
+    "publicRepos": 5,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 1,
-    "originalRepos": 5,
-    "activeRepos": 5,
+    "originalRepos": 4,
+    "activeRepos": 4,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 5,
-    "averageStarsPerRepo": 0.33
+    "reposCreatedThisYear": 4,
+    "averageStarsPerRepo": 0.4
   },
   "computedStats": {
-    "totalRepos": 6,
-    "publicRepos": 6,
+    "totalRepos": 5,
+    "publicRepos": 5,
     "privateRepos": 0,
     "archivedRepos": 0,
     "forkedRepos": 1,
-    "originalRepos": 5,
-    "activeRepos": 5,
+    "originalRepos": 4,
+    "activeRepos": 4,
     "reposWithStars": 1,
-    "reposCreatedThisYear": 5,
-    "averageStarsPerRepo": 0.33,
+    "reposCreatedThisYear": 4,
+    "averageStarsPerRepo": 0.4,
     "languageCount": 7,
     "primaryLanguage": "JavaScript",
     "primaryLanguageThisYear": "JavaScript",
@@ -430,23 +430,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 274,
+    "contributionsThisYear": 271,
     "contributionsLastYear": 75,
-    "yearOverYearGrowth": 265.33,
+    "yearOverYearGrowth": 261.33,
     "mostProductiveMonth": {
       "month": "2026-06",
       "contributions": 135
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 322,
+    "totalCommitContributions": 320,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 6,
+    "totalRepositoryContributions": 5,
     "totalPullRequestContributions": 20,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 350,
+      "totalContributions": 347,
       "weeks": [
         {
           "contributionDays": [
@@ -9095,7 +9095,7 @@
               "date": "2026-07-01"
             },
             {
-              "contributionCount": 25,
+              "contributionCount": 21,
               "date": "2026-07-02"
             },
             {
@@ -9155,8 +9155,12 @@
               "date": "2026-07-14"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-07-15"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-16"
             }
           ]
         }
@@ -9217,22 +9221,8 @@
       "isPrivate": false,
       "primaryLanguage": null,
       "topics": [],
-      "updatedAt": "2026-07-14T03:12:52Z",
+      "updatedAt": "2026-07-15T02:56:30Z",
       "createdAt": "2026-05-26T01:22:46Z"
-    },
-    {
-      "name": "second-brain",
-      "nameWithOwner": "fookwahkong/second-brain",
-      "description": null,
-      "stars": 0,
-      "forks": 0,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": null,
-      "topics": [],
-      "updatedAt": "2026-07-02T12:41:49Z",
-      "createdAt": "2026-07-02T12:11:34Z"
     },
     {
       "name": "stats-action",
@@ -9251,9 +9241,9 @@
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1784084184438,
+  "fetchedAt": 1784171927489,
   "schemaVersion": 2,
-  "generatedAt": "2026-07-15T02:56:24.438Z",
+  "generatedAt": "2026-07-16T03:18:47.489Z",
   "profile": {
     "name": "Ivan Kong",
     "login": "fookwahkong",
@@ -9269,15 +9259,15 @@
     "following": 0
   },
   "profileContributions": {
-    "totalContributions": 350,
-    "totalCommitContributions": 322,
+    "totalContributions": 347,
+    "totalCommitContributions": 320,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
-    "totalRepositoryContributions": 6,
+    "totalRepositoryContributions": 5,
     "totalPullRequestContributions": 20,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 350,
+      "totalContributions": 347,
       "weeks": [
         {
           "contributionDays": [
@@ -17926,7 +17916,7 @@
               "date": "2026-07-01"
             },
             {
-              "contributionCount": 25,
+              "contributionCount": 21,
               "date": "2026-07-02"
             },
             {
@@ -17986,8 +17976,12 @@
               "date": "2026-07-14"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-07-15"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-07-16"
             }
           ]
         }
@@ -17995,11 +17989,11 @@
     },
     "stats": {
       "longestStreak": 23,
-      "currentStreak": 22,
-      "mostActiveDay": "Thursday",
+      "currentStreak": 23,
+      "mostActiveDay": "Friday",
       "averagePerDay": 0.18,
-      "averagePerWeek": 1.29,
-      "averagePerMonth": 5.52,
+      "averagePerWeek": 1.28,
+      "averagePerMonth": 5.47,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -18251,7 +18245,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 86
+          "contributions": 83
         }
       ],
       "yearlyBreakdown": [
@@ -18277,7 +18271,7 @@
         },
         {
           "year": "2026",
-          "contributions": 274
+          "contributions": 271
         }
       ],
       "peakDay": {
@@ -18327,21 +18321,9 @@
         "nameWithOwner": "fookwahkong/fookwahkong",
         "owner": "fookwahkong",
         "counts": {
-          "commits": 71,
+          "commits": 72,
           "issues": 0,
           "pullRequests": 3,
-          "pullRequestReviews": 0,
-          "repositoryCreations": 1
-        }
-      },
-      {
-        "repositoryId": "R_kgDOTLgZHQ",
-        "nameWithOwner": "fookwahkong/second-brain",
-        "owner": "fookwahkong",
-        "counts": {
-          "commits": 3,
-          "issues": 0,
-          "pullRequests": 0,
           "pullRequestReviews": 0,
           "repositoryCreations": 1
         }
@@ -18425,7 +18407,7 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784084163286
+      "metadataFetchedAt": 1784171905999
     },
     {
       "id": "R_kgDORbvSMw",
@@ -18481,7 +18463,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784084164254
+      "metadataFetchedAt": 1784171907075
     },
     {
       "id": "R_kgDOS3MjeQ",
@@ -18549,7 +18531,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784084164254
+      "metadataFetchedAt": 1784171907075
     },
     {
       "id": "R_kgDOSn0dzQ",
@@ -18565,9 +18547,9 @@
       "visibility": "PUBLIC",
       "viewerPermission": "ADMIN",
       "createdAt": "2026-05-26T01:22:46Z",
-      "updatedAt": "2026-07-14T03:12:52Z",
-      "pushedAt": "2026-07-14T03:12:48Z",
-      "defaultBranchOid": "3be69e662c0846930bf13350a20228c0a21fd9bf",
+      "updatedAt": "2026-07-15T02:56:30Z",
+      "pushedAt": "2026-07-15T02:56:26Z",
+      "defaultBranchOid": "ac0d70ea7dedeaaafbc656e03037e4f29ae6fc29",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -18580,50 +18562,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 71,
+        "commits": 72,
         "issues": 0,
         "pullRequests": 3,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784084164254
-    },
-    {
-      "id": "R_kgDOTLgZHQ",
-      "name": "second-brain",
-      "nameWithOwner": "fookwahkong/second-brain",
-      "owner": "fookwahkong",
-      "ownerType": "User",
-      "description": null,
-      "url": "https://github.com/fookwahkong/second-brain",
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "visibility": "PUBLIC",
-      "viewerPermission": "ADMIN",
-      "createdAt": "2026-07-02T12:11:34Z",
-      "updatedAt": "2026-07-02T12:41:49Z",
-      "pushedAt": "2026-07-02T12:41:45Z",
-      "defaultBranchOid": "abf01c1fca005b0337243e5147975abfe709e131",
-      "stars": 0,
-      "forks": 0,
-      "primaryLanguage": null,
-      "topics": [],
-      "languages": [],
-      "codeByteTotal": 0,
-      "sources": [
-        "profile-contribution",
-        "cache",
-        "owned"
-      ],
-      "contributionCounts": {
-        "commits": 3,
-        "issues": 0,
-        "pullRequests": 0,
-        "pullRequestReviews": 0,
-        "repositoryCreations": 1
-      },
-      "metadataFetchedAt": 1784084164254
+      "metadataFetchedAt": 1784171907075
     },
     {
       "id": "R_kgDOTChFQg",
@@ -18667,7 +18612,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1784084164254
+      "metadataFetchedAt": 1784171907075
     }
   ],
   "repoMetrics": {
@@ -18720,11 +18665,11 @@
     ],
     "topTopics": [],
     "contributorStats": {
-      "totalCommits": 67,
-      "linesAdded": 31447,
-      "linesDeleted": 3163,
-      "linesOfCodeChanged": 34610,
-      "reposCompleted": 2,
+      "totalCommits": 68,
+      "linesAdded": 31539,
+      "linesDeleted": 3243,
+      "linesOfCodeChanged": 34782,
+      "reposCompleted": 1,
       "reposPending": 0,
       "reposFailed": 4
     },
@@ -18733,31 +18678,31 @@
       "repoViewUniques": 0,
       "reposCompleted": 0,
       "reposPending": 0,
-      "reposFailed": 6
+      "reposFailed": 5
     },
     "repoStats": {
-      "totalRepos": 6,
-      "publicRepos": 6,
+      "totalRepos": 5,
+      "publicRepos": 5,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 5,
-      "activeRepos": 5,
+      "originalRepos": 4,
+      "activeRepos": 4,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 5,
-      "averageStarsPerRepo": 0.33
+      "reposCreatedThisYear": 4,
+      "averageStarsPerRepo": 0.4
     },
     "computedStats": {
-      "totalRepos": 6,
-      "publicRepos": 6,
+      "totalRepos": 5,
+      "publicRepos": 5,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 5,
-      "activeRepos": 5,
+      "originalRepos": 4,
+      "activeRepos": 4,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 5,
-      "averageStarsPerRepo": 0.33,
+      "reposCreatedThisYear": 4,
+      "averageStarsPerRepo": 0.4,
       "languageCount": 7,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
@@ -18802,9 +18747,9 @@
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 274,
+      "contributionsThisYear": 271,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 265.33,
+      "yearOverYearGrowth": 261.33,
       "mostProductiveMonth": {
         "month": "2026-06",
         "contributions": 135
@@ -18815,8 +18760,8 @@
     "readmeSummary": {
       "name": "Ivan Kong",
       "username": "fookwahkong",
-      "totalContributions": 350,
-      "currentStreak": 22,
+      "totalContributions": 347,
+      "currentStreak": 23,
       "longestStreak": 23,
       "topLanguages": [
         {
@@ -18852,20 +18797,20 @@
       ],
       "starsReceived": 2,
       "forksReceived": 0,
-      "activeRepos": 5,
-      "refreshedAt": "2026-07-15T02:56:24.438Z",
+      "activeRepos": 4,
+      "refreshedAt": "2026-07-16T03:18:47.489Z",
       "complete": false
     },
     "cards": [
       {
         "id": "total-contributions",
         "label": "Total contributions",
-        "value": "350"
+        "value": "347"
       },
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "22 days"
+        "value": "23 days"
       },
       {
         "id": "languages",
@@ -18907,7 +18852,7 @@
       },
       {
         "period": "2026",
-        "contributions": 274
+        "contributions": 271
       }
     ],
     "highlights": [
@@ -18941,14 +18886,14 @@
         {
           "id": "contributions",
           "title": "Contribution history",
-          "metric": "350",
+          "metric": "347",
           "supportingText": "23 day longest streak"
         },
         {
           "id": "repositories",
           "title": "Repository footprint",
-          "metric": 6,
-          "supportingText": "5 active this year"
+          "metric": 5,
+          "supportingText": "4 active this year"
         },
         {
           "id": "languages",
@@ -18967,9 +18912,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1784084154052,
-    "finishedAt": 1784084184438,
-    "durationMs": 30386,
+    "startedAt": 1784171896710,
+    "finishedAt": 1784171927489,
+    "durationMs": 30779,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -18977,37 +18922,37 @@
       "volatilePath": ".github-profile-stats/volatile-cache.json",
       "contributionYearsFromCache": 0,
       "contributionYearsFetched": 6,
-      "repositoriesFromCache": 6,
+      "repositoriesFromCache": 5,
       "repositoriesFetched": 0
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 2,
+      "completedThisRun": 1,
       "pending": 0,
-      "failedThisRun": 10,
+      "failedThisRun": 9,
       "skippedThisRun": 0
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4979,
-        "used": 21,
-        "resetAt": "2026-07-15T03:55:54Z"
+        "remaining": 3798,
+        "used": 1202,
+        "resetAt": "2026-07-16T03:21:03Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4982,
-        "used": 18,
-        "resetAt": "2026-07-15T03:06:45.000Z"
+        "remaining": 4997,
+        "used": 3,
+        "resetAt": "2026-07-16T04:12:14.000Z"
       }
     },
     "warnings": [
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 1000ms",
       "traffic fookwahkong/BitBuddies returned 403; retrying in 1000ms",
       "traffic fookwahkong/finance-tracker returned 403; retrying in 1000ms",
+      "traffic fookwahkong/BitBuddies returned 403; retrying in 2000ms",
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 2000ms",
       "traffic fookwahkong/fookwahkong returned 403; retrying in 1000ms",
-      "traffic fookwahkong/BitBuddies returned 403; retrying in 2000ms",
       "traffic fookwahkong/finance-tracker returned 403; retrying in 2000ms",
       "traffic fookwahkong/fookwahkong returned 403; retrying in 2000ms",
       "traffic fookwahkong/2002-Group-4 returned 403; retrying in 4000ms",
@@ -19015,11 +18960,8 @@
       "traffic fookwahkong/finance-tracker returned 403; retrying in 4000ms",
       "traffic fookwahkong/fookwahkong returned 403; retrying in 4000ms",
       "traffic fookwahkong/stats-action returned 403; retrying in 1000ms",
-      "traffic fookwahkong/second-brain returned 403; retrying in 1000ms",
       "traffic fookwahkong/stats-action returned 403; retrying in 2000ms",
-      "traffic fookwahkong/second-brain returned 403; retrying in 2000ms",
-      "traffic fookwahkong/stats-action returned 403; retrying in 4000ms",
-      "traffic fookwahkong/second-brain returned 403; retrying in 4000ms"
+      "traffic fookwahkong/stats-action returned 403; retrying in 4000ms"
     ],
     "errors": []
   },
@@ -19035,11 +18977,11 @@
     "websiteUrl": null,
     "createdAt": "2021-05-05T04:01:46Z",
     "repoViews": 0,
-    "linesOfCodeChanged": 34610,
-    "linesAdded": 31447,
-    "linesDeleted": 3163,
-    "commitCount": 67,
-    "totalCommits": 322,
+    "linesOfCodeChanged": 34782,
+    "linesAdded": 31539,
+    "linesDeleted": 3243,
+    "commitCount": 68,
+    "totalCommits": 320,
     "totalPullRequests": 20,
     "totalPullRequestReviews": 1,
     "codeByteTotal": 1075867,
@@ -19095,14 +19037,14 @@
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 350,
+    "totalContributions": 347,
     "contributionStats": {
       "longestStreak": 23,
-      "currentStreak": 22,
-      "mostActiveDay": "Thursday",
+      "currentStreak": 23,
+      "mostActiveDay": "Friday",
       "averagePerDay": 0.18,
-      "averagePerWeek": 1.29,
-      "averagePerMonth": 5.52,
+      "averagePerWeek": 1.28,
+      "averagePerMonth": 5.47,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -19354,7 +19296,7 @@
         },
         {
           "month": "2026-07",
-          "contributions": 86
+          "contributions": 83
         }
       ],
       "yearlyBreakdown": [
@@ -19380,7 +19322,7 @@
         },
         {
           "year": "2026",
-          "contributions": 274
+          "contributions": 271
         }
       ],
       "peakDay": {
@@ -19389,28 +19331,28 @@
       }
     },
     "repoStats": {
-      "totalRepos": 6,
-      "publicRepos": 6,
+      "totalRepos": 5,
+      "publicRepos": 5,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 5,
-      "activeRepos": 5,
+      "originalRepos": 4,
+      "activeRepos": 4,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 5,
-      "averageStarsPerRepo": 0.33
+      "reposCreatedThisYear": 4,
+      "averageStarsPerRepo": 0.4
     },
     "computedStats": {
-      "totalRepos": 6,
-      "publicRepos": 6,
+      "totalRepos": 5,
+      "publicRepos": 5,
       "privateRepos": 0,
       "archivedRepos": 0,
       "forkedRepos": 1,
-      "originalRepos": 5,
-      "activeRepos": 5,
+      "originalRepos": 4,
+      "activeRepos": 4,
       "reposWithStars": 1,
-      "reposCreatedThisYear": 5,
-      "averageStarsPerRepo": 0.33,
+      "reposCreatedThisYear": 4,
+      "averageStarsPerRepo": 0.4,
       "languageCount": 7,
       "primaryLanguage": "JavaScript",
       "primaryLanguageThisYear": "JavaScript",
@@ -19455,23 +19397,23 @@
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 274,
+      "contributionsThisYear": 271,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 265.33,
+      "yearOverYearGrowth": 261.33,
       "mostProductiveMonth": {
         "month": "2026-06",
         "contributions": 135
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 322,
+      "totalCommitContributions": 320,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 0,
-      "totalRepositoryContributions": 6,
+      "totalRepositoryContributions": 5,
       "totalPullRequestContributions": 20,
       "totalPullRequestReviewContributions": 1,
       "contributionCalendar": {
-        "totalContributions": 350,
+        "totalContributions": 347,
         "weeks": [
           {
             "contributionDays": [
@@ -28120,7 +28062,7 @@
                 "date": "2026-07-01"
               },
               {
-                "contributionCount": 25,
+                "contributionCount": 21,
                 "date": "2026-07-02"
               },
               {
@@ -28180,8 +28122,12 @@
                 "date": "2026-07-14"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-07-15"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-07-16"
               }
             ]
           }
@@ -28242,22 +28188,8 @@
         "isPrivate": false,
         "primaryLanguage": null,
         "topics": [],
-        "updatedAt": "2026-07-14T03:12:52Z",
+        "updatedAt": "2026-07-15T02:56:30Z",
         "createdAt": "2026-05-26T01:22:46Z"
-      },
-      {
-        "name": "second-brain",
-        "nameWithOwner": "fookwahkong/second-brain",
-        "description": null,
-        "stars": 0,
-        "forks": 0,
-        "isArchived": false,
-        "isFork": false,
-        "isPrivate": false,
-        "primaryLanguage": null,
-        "topics": [],
-        "updatedAt": "2026-07-02T12:41:49Z",
-        "createdAt": "2026-07-02T12:11:34Z"
       },
       {
         "name": "stats-action",
@@ -28276,6 +28208,6 @@
     ],
     "closedIssues": 0,
     "openIssues": 0,
-    "fetchedAt": 1784084184438
+    "fetchedAt": 1784171927489
   }
 }
