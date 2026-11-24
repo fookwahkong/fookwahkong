@@ -10,11 +10,11 @@
   "websiteUrl": null,
   "createdAt": "2021-05-05T04:01:46Z",
   "repoViews": 1,
-  "linesOfCodeChanged": 58295,
-  "linesAdded": 44167,
-  "linesDeleted": 14128,
-  "commitCount": 189,
-  "totalCommits": 520,
+  "linesOfCodeChanged": 112134,
+  "linesAdded": 84813,
+  "linesDeleted": 27321,
+  "commitCount": 397,
+  "totalCommits": 521,
   "totalPullRequests": 26,
   "totalPullRequestReviews": 1,
   "codeByteTotal": 1445410,
@@ -70,14 +70,14 @@
   "repositoriesContributedTo": 0,
   "discussionsStarted": 0,
   "discussionsAnswered": 0,
-  "totalContributions": 557,
+  "totalContributions": 558,
   "contributionStats": {
-    "longestStreak": 112,
-    "currentStreak": 112,
+    "longestStreak": 113,
+    "currentStreak": 113,
     "mostActiveDay": "Friday",
     "averagePerDay": 0.27,
     "averagePerWeek": 1.92,
-    "averagePerMonth": 8.22,
+    "averagePerMonth": 8.23,
     "monthlyBreakdown": [
       {
         "month": "2021-05",
@@ -345,7 +345,7 @@
       },
       {
         "month": "2026-11",
-        "contributions": 22
+        "contributions": 23
       }
     ],
     "yearlyBreakdown": [
@@ -371,7 +371,7 @@
       },
       {
         "year": "2026",
-        "contributions": 473
+        "contributions": 474
       }
     ],
     "peakDay": {
@@ -446,23 +446,23 @@
     "totalTopics": 0,
     "topTopics": [],
     "allTopics": [],
-    "contributionsThisYear": 473,
+    "contributionsThisYear": 474,
     "contributionsLastYear": 75,
-    "yearOverYearGrowth": 530.67,
+    "yearOverYearGrowth": 532,
     "mostProductiveMonth": {
       "month": "2026-06",
       "contributions": 156
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 520,
+    "totalCommitContributions": 521,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
     "totalRepositoryContributions": 9,
     "totalPullRequestContributions": 26,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 557,
+      "totalContributions": 558,
       "weeks": [
         {
           "contributionDays": [
@@ -9771,8 +9771,12 @@
               "date": "2026-11-22"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-11-23"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-11-24"
             }
           ]
         }
@@ -9853,9 +9857,9 @@
   ],
   "closedIssues": 0,
   "openIssues": 0,
-  "fetchedAt": 1795417380977,
+  "fetchedAt": 1795512487544,
   "schemaVersion": 2,
-  "generatedAt": "2026-11-23T07:03:00.977Z",
+  "generatedAt": "2026-11-24T09:28:07.544Z",
   "profile": {
     "name": "Ivan Kong",
     "login": "fookwahkong",
@@ -9871,15 +9875,15 @@
     "following": 0
   },
   "profileContributions": {
-    "totalContributions": 557,
-    "totalCommitContributions": 520,
+    "totalContributions": 558,
+    "totalCommitContributions": 521,
     "restrictedContributionsCount": 0,
     "totalIssueContributions": 0,
     "totalRepositoryContributions": 9,
     "totalPullRequestContributions": 26,
     "totalPullRequestReviewContributions": 1,
     "contributionCalendar": {
-      "totalContributions": 557,
+      "totalContributions": 558,
       "weeks": [
         {
           "contributionDays": [
@@ -19188,20 +19192,24 @@
               "date": "2026-11-22"
             },
             {
-              "contributionCount": 0,
+              "contributionCount": 1,
               "date": "2026-11-23"
+            },
+            {
+              "contributionCount": 0,
+              "date": "2026-11-24"
             }
           ]
         }
       ]
     },
     "stats": {
-      "longestStreak": 112,
-      "currentStreak": 112,
+      "longestStreak": 113,
+      "currentStreak": 113,
       "mostActiveDay": "Friday",
       "averagePerDay": 0.27,
       "averagePerWeek": 1.92,
-      "averagePerMonth": 8.22,
+      "averagePerMonth": 8.23,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -19469,7 +19477,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 22
+          "contributions": 23
         }
       ],
       "yearlyBreakdown": [
@@ -19495,7 +19503,7 @@
         },
         {
           "year": "2026",
-          "contributions": 473
+          "contributions": 474
         }
       ],
       "peakDay": {
@@ -19545,7 +19553,7 @@
         "nameWithOwner": "fookwahkong/fookwahkong",
         "owner": "fookwahkong",
         "counts": {
-          "commits": 193,
+          "commits": 194,
           "issues": 0,
           "pullRequests": 3,
           "pullRequestReviews": 0,
@@ -19631,7 +19639,7 @@
         "pullRequestReviews": 1,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795417365642
+      "metadataFetchedAt": 1795512477296
     },
     {
       "id": "R_kgDORbvSMw",
@@ -19687,7 +19695,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795417366842
+      "metadataFetchedAt": 1795512478277
     },
     {
       "id": "R_kgDOS3MjeQ",
@@ -19755,7 +19763,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795417366842
+      "metadataFetchedAt": 1795512478277
     },
     {
       "id": "R_kgDOSn0dzQ",
@@ -19772,8 +19780,8 @@
       "viewerPermission": "ADMIN",
       "createdAt": "2026-05-26T01:22:46Z",
       "updatedAt": "2026-11-12T06:50:02Z",
-      "pushedAt": "2026-11-22T06:11:26Z",
-      "defaultBranchOid": "bc533c0be7d2f6fb47e95f0dec6d03612dcddf69",
+      "pushedAt": "2026-11-23T07:03:03Z",
+      "defaultBranchOid": "6844a320a7f4fa9eb5a540dd1f9523efb6e08d66",
       "stars": 0,
       "forks": 0,
       "primaryLanguage": null,
@@ -19786,13 +19794,13 @@
         "owned"
       ],
       "contributionCounts": {
-        "commits": 193,
+        "commits": 194,
         "issues": 0,
         "pullRequests": 3,
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795417366842
+      "metadataFetchedAt": 1795512478277
     },
     {
       "id": "R_kgDOTChFQg",
@@ -19836,7 +19844,7 @@
         "pullRequestReviews": 0,
         "repositoryCreations": 1
       },
-      "metadataFetchedAt": 1795417366842
+      "metadataFetchedAt": 1795512478277
     }
   ],
   "repoMetrics": {
@@ -19889,20 +19897,20 @@
     ],
     "topTopics": [],
     "contributorStats": {
-      "totalCommits": 189,
-      "linesAdded": 44167,
-      "linesDeleted": 14128,
-      "linesOfCodeChanged": 58295,
-      "reposCompleted": 1,
+      "totalCommits": 397,
+      "linesAdded": 84813,
+      "linesDeleted": 27321,
+      "linesOfCodeChanged": 112134,
+      "reposCompleted": 2,
       "reposPending": 0,
-      "reposFailed": 4
+      "reposFailed": 3
     },
     "traffic": {
       "repoViews": 1,
       "repoViewUniques": 1,
-      "reposCompleted": 4,
+      "reposCompleted": 5,
       "reposPending": 0,
-      "reposFailed": 1
+      "reposFailed": 0
     },
     "repoStats": {
       "totalRepos": 9,
@@ -19971,9 +19979,9 @@
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 473,
+      "contributionsThisYear": 474,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 530.67,
+      "yearOverYearGrowth": 532,
       "mostProductiveMonth": {
         "month": "2026-06",
         "contributions": 156
@@ -19984,9 +19992,9 @@
     "readmeSummary": {
       "name": "Ivan Kong",
       "username": "fookwahkong",
-      "totalContributions": 557,
-      "currentStreak": 112,
-      "longestStreak": 112,
+      "totalContributions": 558,
+      "currentStreak": 113,
+      "longestStreak": 113,
       "topLanguages": [
         {
           "languageName": "JavaScript",
@@ -20022,19 +20030,19 @@
       "starsReceived": 1,
       "forksReceived": 0,
       "activeRepos": 6,
-      "refreshedAt": "2026-11-23T07:03:00.977Z",
+      "refreshedAt": "2026-11-24T09:28:07.544Z",
       "complete": false
     },
     "cards": [
       {
         "id": "total-contributions",
         "label": "Total contributions",
-        "value": "557"
+        "value": "558"
       },
       {
         "id": "current-streak",
         "label": "Current streak",
-        "value": "112 days"
+        "value": "113 days"
       },
       {
         "id": "languages",
@@ -20076,7 +20084,7 @@
       },
       {
         "period": "2026",
-        "contributions": 473
+        "contributions": 474
       }
     ],
     "highlights": [
@@ -20110,8 +20118,8 @@
         {
           "id": "contributions",
           "title": "Contribution history",
-          "metric": "557",
-          "supportingText": "112 day longest streak"
+          "metric": "558",
+          "supportingText": "113 day longest streak"
         },
         {
           "id": "repositories",
@@ -20136,9 +20144,9 @@
     "redactedOptionalMetrics": 0
   },
   "collectionStatus": {
-    "startedAt": 1795417356362,
-    "finishedAt": 1795417380977,
-    "durationMs": 24615,
+    "startedAt": 1795512467943,
+    "finishedAt": 1795512487544,
+    "durationMs": 19601,
     "coreComplete": true,
     "complete": false,
     "cache": {
@@ -20151,23 +20159,23 @@
     },
     "backfill": {
       "enabled": true,
-      "completedThisRun": 5,
+      "completedThisRun": 7,
       "pending": 0,
-      "failedThisRun": 5,
+      "failedThisRun": 3,
       "skippedThisRun": 0
     },
     "rateLimit": {
       "graphql": {
         "limit": 5000,
-        "remaining": 4983,
-        "used": 17,
-        "resetAt": "2026-11-23T08:02:36Z"
+        "remaining": 4980,
+        "used": 20,
+        "resetAt": "2026-11-24T10:27:48Z"
       },
       "rest": {
         "limit": 5000,
-        "remaining": 4996,
-        "used": 4,
-        "resetAt": "2026-11-23T08:02:52.000Z"
+        "remaining": 4995,
+        "used": 5,
+        "resetAt": "2026-11-24T10:28:03.000Z"
       }
     },
     "warnings": [
@@ -20188,11 +20196,11 @@
     "websiteUrl": null,
     "createdAt": "2021-05-05T04:01:46Z",
     "repoViews": 1,
-    "linesOfCodeChanged": 58295,
-    "linesAdded": 44167,
-    "linesDeleted": 14128,
-    "commitCount": 189,
-    "totalCommits": 520,
+    "linesOfCodeChanged": 112134,
+    "linesAdded": 84813,
+    "linesDeleted": 27321,
+    "commitCount": 397,
+    "totalCommits": 521,
     "totalPullRequests": 26,
     "totalPullRequestReviews": 1,
     "codeByteTotal": 1445410,
@@ -20248,14 +20256,14 @@
     "repositoriesContributedTo": 0,
     "discussionsStarted": 0,
     "discussionsAnswered": 0,
-    "totalContributions": 557,
+    "totalContributions": 558,
     "contributionStats": {
-      "longestStreak": 112,
-      "currentStreak": 112,
+      "longestStreak": 113,
+      "currentStreak": 113,
       "mostActiveDay": "Friday",
       "averagePerDay": 0.27,
       "averagePerWeek": 1.92,
-      "averagePerMonth": 8.22,
+      "averagePerMonth": 8.23,
       "monthlyBreakdown": [
         {
           "month": "2021-05",
@@ -20523,7 +20531,7 @@
         },
         {
           "month": "2026-11",
-          "contributions": 22
+          "contributions": 23
         }
       ],
       "yearlyBreakdown": [
@@ -20549,7 +20557,7 @@
         },
         {
           "year": "2026",
-          "contributions": 473
+          "contributions": 474
         }
       ],
       "peakDay": {
@@ -20624,23 +20632,23 @@
       "totalTopics": 0,
       "topTopics": [],
       "allTopics": [],
-      "contributionsThisYear": 473,
+      "contributionsThisYear": 474,
       "contributionsLastYear": 75,
-      "yearOverYearGrowth": 530.67,
+      "yearOverYearGrowth": 532,
       "mostProductiveMonth": {
         "month": "2026-06",
         "contributions": 156
       }
     },
     "contributionsCollection": {
-      "totalCommitContributions": 520,
+      "totalCommitContributions": 521,
       "restrictedContributionsCount": 0,
       "totalIssueContributions": 0,
       "totalRepositoryContributions": 9,
       "totalPullRequestContributions": 26,
       "totalPullRequestReviewContributions": 1,
       "contributionCalendar": {
-        "totalContributions": 557,
+        "totalContributions": 558,
         "weeks": [
           {
             "contributionDays": [
@@ -29949,8 +29957,12 @@
                 "date": "2026-11-22"
               },
               {
-                "contributionCount": 0,
+                "contributionCount": 1,
                 "date": "2026-11-23"
+              },
+              {
+                "contributionCount": 0,
+                "date": "2026-11-24"
               }
             ]
           }
@@ -30031,6 +30043,6 @@
     ],
     "closedIssues": 0,
     "openIssues": 0,
-    "fetchedAt": 1795417380977
+    "fetchedAt": 1795512487544
   }
 }
